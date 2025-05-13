@@ -1,11 +1,11 @@
-# 🧠 Date Fruit Classification with CNN (11 Classes)
+# 🧠 Tunisian Date Fruit Classification with CNN (11 Classes)
 
-This project focuses on classifying **date fruits** into **11 different types** using a **Convolutional Neural Network (CNN)** model. The goal is to automate the visual identification of date varieties based on image data.
+This project focuses on classifying **Tunisian date fruits** into **11 different types** using a **Convolutional Neural Network (CNN)** model. The goal is to automate the visual identification of date varieties based on image data.
 
 ## 📌 Project Highlights
 
 - ✅ Built using **TensorFlow / Keras**
-- ✅ Trained on a labeled image dataset containing 11 varieties of dates
+- ✅ Trained on a labeled image dataset of **11 Tunisian date fruit types**
 - ✅ Applied standard image preprocessing techniques:
   - Resizing and normalization
   - Data augmentation (rotation, flip, zoom, etc.)
@@ -14,13 +14,16 @@ This project focuses on classifying **date fruits** into **11 different types** 
 
 ## 📂 Dataset
 
-The dataset consists of images labeled by their corresponding date fruit class. Each class represents a different type of date.
+The dataset consists of images of **11 Tunisian date fruit varieties**, each labeled according to its type.
 
-> https://drive.google.com/drive/folders/15VKrBu2bKqBxZTpMbpu4vkP_Scd2-eZJ?usp=drive_link
+📥 **Download the dataset here**:  
+[🔗 Google Drive Folder](https://drive.google.com/drive/folders/15VKrBu2bKqBxZTpMbpu4vkP_Scd2-eZJ?usp=drive_link)
+
+> *Make sure to unzip and organize the dataset according to your model’s training format.*
 
 ## 📈 Model Performance
 
-The model demonstrates strong classification ability, with high accuracy on both training and validation sets. It can effectively distinguish between 11 distinct date fruit types.
+The model demonstrates strong classification ability, with high accuracy on both training and validation sets. It can effectively distinguish between 11 distinct types of Tunisian dates.
 
 ## 🚀 Run the Project
 

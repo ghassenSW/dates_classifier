@@ -26,7 +26,7 @@ The model demonstrates strong classification ability, with high accuracy on both
 
 You can try the notebook directly in Google Colab:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/YourRepo/blob/main/YourNotebook.ipynb])
+[![Open In Colab]([[https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/YourRepo/blob/main/YourNotebook.ipynb]](https://colab.research.google.com/github/ghassenSW/dates_classifier/blob/main/dates.ipynb))
 
 ---
 

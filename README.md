@@ -19,7 +19,6 @@ The dataset consists of images of **11 Tunisian date fruit varieties**, each lab
 📥 **Download the dataset here**:  
 [🔗 Google Drive Folder](https://drive.google.com/drive/folders/15VKrBu2bKqBxZTpMbpu4vkP_Scd2-eZJ?usp=drive_link)
 
-> *Make sure to unzip and organize the dataset according to your model’s training format.*
 
 ## 📈 Model Performance
 

@@ -16,7 +16,7 @@ This project focuses on classifying **date fruits** into **11 different types** 
 
 The dataset consists of images labeled by their corresponding date fruit class. Each class represents a different type of date.
 
-> *Note: You can add a link to your dataset here if it's publicly available.*
+> https://drive.google.com/drive/folders/15VKrBu2bKqBxZTpMbpu4vkP_Scd2-eZJ?usp=drive_link
 
 ## 📈 Model Performance
 

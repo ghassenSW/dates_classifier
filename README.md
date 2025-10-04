@@ -14,12 +14,14 @@ This project focuses on classifying **Tunisian date fruits** into **11 different
 
 ## 📂 Dataset
 
-The dataset consists of images of **11 Tunisian date fruit varieties**, each labeled according to its type.
-
+The dataset consists of images of **11 Tunisian date fruit varieties**, each labeled according to its type.  
 
 📥 **Download the dataset here**:  
 [🔗 Google Drive Folder](https://drive.google.com/drive/folders/15VKrBu2bKqBxZTpMbpu4vkP_Scd2-eZJ?usp=drive_link)
 
+### Example of Date Types
+
+<img src="dates_types.png" alt="Tunisian Date Types" width="600"/>
 
 ## 📈 Model Performance
 
@@ -46,4 +48,3 @@ You can try the notebook directly in Google Colab:
 ## 📬 Contact
 
 If you have questions or suggestions, feel free to open an issue or contact me.
-
